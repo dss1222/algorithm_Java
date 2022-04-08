@@ -1,4 +1,4 @@
-package 기초연습.단계별로풀기.기본수학2;
+package 기초연습.단계별로풀기.재귀함수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
